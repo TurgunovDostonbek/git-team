@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Qur'oni Karim ma'nolari tarjimasi",
+      "author": ["Shayx Muhammad Sodiq Muhammad Yusuf"],
+      "cover_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzu8QYDeN8eoYIoNIZap1GHm8xxMjXQ1rv1Q&s",
+      "category": "Diniy",
+      "description": "Qur'oni Karim ma'nolarining o'zbek tilidagi tarjimasi va tafsiri.",
+      "publish_year": 2004,
+      "subject_places": "Makka, Madina",
+      "subject_times": "VII asr",
+      "subjects": ["Din", "Islom", "Tafsir"]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.cards__card {
+  width: 400px;
+  border: 1px solid red;
+  padding: 10px;
+  border-radius: 20px;
+  transition: all 0.7s;
+}
+
+.cards__card:hover {
+  color: white;
+  background-color: black;
+}
+
+button {
+  padding: 10px 15px;
+  border: none;
+  background-color: darkblue;
+  color: white;
+  margin-left: 5px;
+  border-radius: 8px;
+}
+
+button:hover {
+  background-color: black;
+  color: white;
+}
